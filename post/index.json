@@ -1,0 +1,15 @@
+{
+    "site_name": "范天天_汪小小",
+    "copyright": "FAN",
+    "cates": [
+        {"name": "tech", "text":"工作"},
+        {"name": "life", "text":"喵大大"},
+        {"name": "other", "text":"汪小小"}
+    ],
+    "articles":[
+
+	{"title": "范天天-vpn服务器与http代理服务器", "file": "2016-10-01-rpi-vpn", "cate":"tech"},
+	{"title": "喵大大-Markdown 语法说明", "file": "2016-11-01-firstDate", "cate":"life"},
+	{"title": "sumlime  快捷键", "file": "2016-11-3-sublime-text-key", "cate":"other"}
+    ]
+}
